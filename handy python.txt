@@ -1,0 +1,8 @@
+handy python
+
+
+-w, h = 100, 100
+-bucket = [[None] * w for i in range(h)]
+
+-
+-
